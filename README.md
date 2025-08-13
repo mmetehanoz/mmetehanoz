@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Metehan Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=200&section=header&text=Hi%20I'm%20Metehan&fontSize=45&fontColor=ffffff&animation=fadeIn)
+![Babil Yazılım Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=200&section=header&text=Babil%20Yazılım%20-%20Yaratıcılığın%20Başkenti&fontSize=35&fontColor=ffffff&animation=fadeIn)
 
 # 🚀 Project Manager | Full-stack Developer  
 📍 Istanbul, Türkiye  
@@ -9,16 +9,15 @@
 
 ## 🏆 About Me
 I have developed specialized projects in the healthcare and travel industries.  
-I specialize in web and mobile applications, automation systems, and AI-powered solutions.  
+I specialize in web and mobile applications and automation systems.  
 I take new ventures from **scratch** and bring them to life, scaling them for growth.
 
 ---
 
 ## 💡 Expertise
 - Full-stack Development  
-- Mobile Application Development 
+- Mobile Application Development  
 - Automation & Integration  
-- AI Applications  
 - Project Management  
 
 ---
@@ -47,9 +46,11 @@ I take new ventures from **scratch** and bring them to life, scaling them for gr
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Website](https://img.shields.io/badge/-Website-000?&logo=google-chrome&logoColor=white)](https://YOUR_WEBSITE)
+[![Website](https://img.shields.io/badge/-Website-000?&logo=google-chrome&logoColor=white)](https://metehanozturk.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?&logo=Gmail&logoColor=white)](mailto:m@metehanozturk.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mmetehan-ozturk/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?&logo=Twitter&logoColor=white)](https://x.com/mmetehanoz)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?&logo=Instagram&logoColor=white)](https://www.instagram.com/mmetehanoz/)
 
 ---
 
