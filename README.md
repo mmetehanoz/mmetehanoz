@@ -1,6 +1,3 @@
-<!-- Banner -->
-![Babil Yazılım Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=200&section=header&text=Babil%20Yazılım%20-%20Yaratıcılığın%20Başkenti&fontSize=35&fontColor=ffffff&animation=fadeIn)
-
 # 🚀 Project Manager | Full-stack Developer  
 📍 Istanbul, Türkiye  
 💼 **Babil Yazılım** — Founder & Owner  
@@ -53,6 +50,3 @@ I take new ventures from **scratch** and bring them to life, scaling them for gr
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?&logo=Instagram&logoColor=white)](https://www.instagram.com/mmetehanoz/)
 
 ---
-
-<!-- Footer Banner -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:dd2476,100:ff512f&height=150&section=footer)
