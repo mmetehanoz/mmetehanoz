@@ -21,9 +21,18 @@ I take new ventures from **scratch** and bring them to life, scaling them for gr
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmetehanoz&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmetehanoz&layout=compact&theme=radical" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mmetehanoz&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=1800"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmetehanoz&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800"
+    height="165"
+    alt="Top Languages"
+  />
 </p>
+
 
 ---
 
